@@ -7,7 +7,7 @@ A desktop calculator built specifically for embedded systems and firmware develo
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-informational?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL-green?style=flat-square)
 
 ---
 
@@ -132,4 +132,4 @@ Bug reports, feature requests, and pull requests are welcome. This started as a 
 
 ## License
 
-GPL
+GPL — see [LICENSE](LICENSE) for details.
